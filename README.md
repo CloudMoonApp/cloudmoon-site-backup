@@ -2,6 +2,7 @@
 This repository hosts a **read-only backup entry** for CloudMoon on GitHub Pages.
 Use it only when the main site is unavailable on your network.
 
-- Backup site 1: https://260326moon.firebaseapp.com
-- Backup site 2: https://geometry.today
-- Backup site 3: https://cloudmoonapp.pages.dev
+- Backup site 1: https://cdn.jsdelivr.net/gh/CloudMoonApp/web@main/main-2604131056.svg
+- Backup site 2: https://260326moon.firebaseapp.com
+- Backup site 3: https://geometry.today
+- Backup site 4: https://cloudmoonapp.pages.dev
